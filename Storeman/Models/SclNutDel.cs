@@ -1,0 +1,102 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Storeman.Models
+{
+    public partial class SclNutDel
+    {
+        public double F268 { get; set; }
+        public string F1000 { get; set; }
+        public int? F04 { get; set; }
+        public string F197 { get; set; }
+        public string F198 { get; set; }
+        public string F199 { get; set; }
+        public string F200 { get; set; }
+        public DateTime? F253 { get; set; }
+        public string F276 { get; set; }
+        public string F277 { get; set; }
+        public double? F278 { get; set; }
+        public double? F279 { get; set; }
+        public double? F280 { get; set; }
+        public double? F281 { get; set; }
+        public double? F282 { get; set; }
+        public double? F283 { get; set; }
+        public double? F284 { get; set; }
+        public double? F285 { get; set; }
+        public double? F286 { get; set; }
+        public double? F287 { get; set; }
+        public double? F288 { get; set; }
+        public double? F289 { get; set; }
+        public double? F290 { get; set; }
+        public double? F291 { get; set; }
+        public double? F292 { get; set; }
+        public double? F293 { get; set; }
+        public double? F294 { get; set; }
+        public double? F295 { get; set; }
+        public double? F296 { get; set; }
+        public string F902 { get; set; }
+        public int? F1001 { get; set; }
+        public int? F1759 { get; set; }
+        public string F1964 { get; set; }
+        public double? F2500 { get; set; }
+        public double? F2501 { get; set; }
+        public double? F2502 { get; set; }
+        public double? F2503 { get; set; }
+        public double? F2504 { get; set; }
+        public double? F2505 { get; set; }
+        public double? F2506 { get; set; }
+        public double? F2507 { get; set; }
+        public double? F2508 { get; set; }
+        public double? F2509 { get; set; }
+        public double? F2510 { get; set; }
+        public double? F2511 { get; set; }
+        public double? F2512 { get; set; }
+        public double? F2513 { get; set; }
+        public double? F2514 { get; set; }
+        public double? F2515 { get; set; }
+        public double? F2516 { get; set; }
+        public double? F2517 { get; set; }
+        public double? F2518 { get; set; }
+        public double? F2519 { get; set; }
+        public double? F2520 { get; set; }
+        public double? F2521 { get; set; }
+        public double? F2522 { get; set; }
+        public double? F2523 { get; set; }
+        public string F2524 { get; set; }
+        public double? F2525 { get; set; }
+        public double? F2526 { get; set; }
+        public double? F2527 { get; set; }
+        public double? F2528 { get; set; }
+        public double? F2529 { get; set; }
+        public double? F2530 { get; set; }
+        public double? F2531 { get; set; }
+        public double? F2532 { get; set; }
+        public double? F2533 { get; set; }
+        public double? F2534 { get; set; }
+        public double? F2535 { get; set; }
+        public double? F2536 { get; set; }
+        public double? F2537 { get; set; }
+        public double? F2538 { get; set; }
+        public double? F2539 { get; set; }
+        public double? F2540 { get; set; }
+        public double? F2541 { get; set; }
+        public double? F2542 { get; set; }
+        public double? F2543 { get; set; }
+        public double? F2544 { get; set; }
+        public double? F2545 { get; set; }
+        public double? F2546 { get; set; }
+        public double? F2547 { get; set; }
+        public double? F2548 { get; set; }
+        public double? F2549 { get; set; }
+        public double? F2550 { get; set; }
+        public string F2852 { get; set; }
+        public string F2853 { get; set; }
+        public string F2854 { get; set; }
+        public string F2855 { get; set; }
+        public string F2856 { get; set; }
+        public string F2857 { get; set; }
+        public string F2858 { get; set; }
+        public string F2859 { get; set; }
+        public int? F2951 { get; set; }
+    }
+}

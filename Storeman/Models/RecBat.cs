@@ -1,0 +1,99 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Storeman.Models
+{
+    public partial class RecBat
+    {
+        public int F1032 { get; set; }
+        public string F27 { get; set; }
+        public DateTime? F76 { get; set; }
+        public string F91 { get; set; }
+        public DateTime? F253 { get; set; }
+        public DateTime? F254 { get; set; }
+        public string F334 { get; set; }
+        public string F335 { get; set; }
+        public string F336 { get; set; }
+        public string F337 { get; set; }
+        public string F338 { get; set; }
+        public string F339 { get; set; }
+        public string F340 { get; set; }
+        public string F341 { get; set; }
+        public string F342 { get; set; }
+        public string F343 { get; set; }
+        public string F344 { get; set; }
+        public string F345 { get; set; }
+        public double? F346 { get; set; }
+        public double? F347 { get; set; }
+        public int? F348 { get; set; }
+        public double? F349 { get; set; }
+        public string F352 { get; set; }
+        public string F902 { get; set; }
+        public string F1035 { get; set; }
+        public string F1036 { get; set; }
+        public string F1056 { get; set; }
+        public string F1057 { get; set; }
+        public string F1067 { get; set; }
+        public string F1068 { get; set; }
+        public int? F1101 { get; set; }
+        public int? F1126 { get; set; }
+        public string F1127 { get; set; }
+        public string F1148 { get; set; }
+        public int? F1168 { get; set; }
+        public string F1245 { get; set; }
+        public DateTime? F1246 { get; set; }
+        public string F1254 { get; set; }
+        public string F1255 { get; set; }
+        public DateTime? F1264 { get; set; }
+        public string F1642 { get; set; }
+        public string F1643 { get; set; }
+        public string F1644 { get; set; }
+        public string F1645 { get; set; }
+        public string F1646 { get; set; }
+        public string F1647 { get; set; }
+        public string F1648 { get; set; }
+        public string F1649 { get; set; }
+        public string F1650 { get; set; }
+        public string F1651 { get; set; }
+        public string F1652 { get; set; }
+        public DateTime? F1653 { get; set; }
+        public double? F1654 { get; set; }
+        public double? F1655 { get; set; }
+        public string F1656 { get; set; }
+        public int? F1685 { get; set; }
+        public int? F1686 { get; set; }
+        public int? F1687 { get; set; }
+        public int? F1688 { get; set; }
+        public int? F1689 { get; set; }
+        public string F1692 { get; set; }
+        public int? F1693 { get; set; }
+        public int? F1694 { get; set; }
+        public int? F1695 { get; set; }
+        public int? F1696 { get; set; }
+        public double? F1760 { get; set; }
+        public double? F1761 { get; set; }
+        public int? F1793 { get; set; }
+        public double? F1883 { get; set; }
+        public decimal? F1884 { get; set; }
+        public string F1887 { get; set; }
+        public string F1889 { get; set; }
+        public string F1890 { get; set; }
+        public DateTime? F2596 { get; set; }
+        public double? F2598 { get; set; }
+        public double? F2599 { get; set; }
+        public string F2630 { get; set; }
+        public int? F2631 { get; set; }
+        public int? F2632 { get; set; }
+        public double? F2633 { get; set; }
+        public double? F2634 { get; set; }
+        public decimal? F2635 { get; set; }
+        public decimal? F2636 { get; set; }
+        public string F2655 { get; set; }
+        public string F2656 { get; set; }
+        public DateTime? F2657 { get; set; }
+        public string F2658 { get; set; }
+        public string F2659 { get; set; }
+        public string F2710 { get; set; }
+        public string F2848 { get; set; }
+    }
+}
